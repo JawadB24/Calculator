@@ -612,7 +612,7 @@ int main()
 	
 	while (choice != 0)
 	{
-		printf("\n--- Calculator Men ---\n");
+		printf("\n--- Calculator Menu ---\n");
 		printf("1. Enter a mathematical expression.\n");
 		printf("0. Exit the program.\n");
 		
